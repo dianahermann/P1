@@ -66,7 +66,7 @@ public class SimplifiedBlackJackAgent {
                 System.out.printf(", deine Punktzahl beträgt " + userPoints + "\n\n");
             }
 
-            //check if points above 21
+            //checks if points are above 21
             if (userPoints > 21) {
                 System.out.println("LOST");
                 keepPlaying = false;  //game ends
