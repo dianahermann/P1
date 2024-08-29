@@ -1,16 +1,9 @@
-###--------------------\\\vvv///--------------------
-### CHECK-IN TOGGLE --->>> X <<<--- CHECK-IN TOGGLE
-###--------------------///^^^\\\--------------------
-################################################################################
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
+For SimplifiedBlackJack i added code to the method playBlackJack(); 
+The goal is to get as close as possible to 21 points. If the user exceeds 21 points, he lost.
+The card and the current score are displayed. 
+• Aces are worth eleven points. 
+• twos to tens count according to their card rank. 
+• jacks, queens, kings count ten points. 
+If 21 points have been exceeded, the System prints LOST.
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+As the name implies, this version of Black Jack is SIMPLIFIED. 
