@@ -1,16 +1,11 @@
-###--------------------\\\vvv///--------------------
-### CHECK-IN TOGGLE --->>> X <<<--- CHECK-IN TOGGLE
-###--------------------///^^^\\\--------------------
-################################################################################
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
+First of all: In the following array representation, the first dimension is shown as Y-axis and the second dimension is 
+shown as X-axis (it's reversed). The array starts at the top left, [0][0].
+The program loops through an array (given as parameter long[][]) with the pattern below:
+ 
+␣ X X 
+X ␣ ␣ X 
+X ␣ ␣ X 
+␣ X X 
 
-PROJECT TITLE: ...
-PURPOSE OF PROJECT: ...
-VERSION or DATE: ...
-HOW TO START THIS PROJECT: ...
-AUTHORS: ...
-USER INSTRUCTIONS: ...
+The program adds up all the parameters passed, matching the pattern. Only the fields with the X are relevant.
+The sum resulting from the addition is the result. 
