@@ -1,4 +1,4 @@
-Iadded code to the method playBlackJack() for this task. 
+I added code to the method playBlackJack() 
 The goal is to get as close as possible to 21 points. If the user exceeds 21 points, he lost.
 The card and the current score are displayed. 
 • Aces are worth eleven points. 
