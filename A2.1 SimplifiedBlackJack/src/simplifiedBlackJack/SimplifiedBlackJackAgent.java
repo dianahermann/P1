@@ -3,9 +3,6 @@ package simplifiedBlackJack;
 
 
 import cards.*;
-import cards.Card.*;
-import static cards.Card.*;
-import static cards.Card.Constant.*;
 
 import java.util.Scanner;
 
